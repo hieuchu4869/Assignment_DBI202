@@ -59,7 +59,10 @@ The system uses an ER model that includes the following entities and relationshi
 
 ## 🛠️ Technology Stack
 - **SQL**: for database queries and relational modeling
-- **Relational DBMS**: Microsoft SQL Server (assumed)
+- **Relational DBMS**: Microsoft SQL Server
+
+## 🗺️ Diagram
+![image](https://github.com/user-attachments/assets/656ddf27-782b-48c6-b840-a985918a9007)
 
 ## 👨‍💻 Group Members
 
@@ -70,9 +73,5 @@ The system uses an ER model that includes the following entities and relationshi
 | Nguyễn Việt Anh | HE191009 |
 | Nguyễn Xuân Hải Anh | HE200053 |
 | Nguyễn Phúc Anh Tuấn | HE190953 |
-
-## 👩‍🏫 Instructor
-**Đỗ Thị Thu Nga**
-
 ---
 
